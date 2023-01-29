@@ -34,9 +34,5 @@ dietitians.
 
 ## How will this app help me?
 
-We are using research conducted around a healthy wholesome diet to provide the best meals for your needs. We hope to help you eat better and healthier by following the Mediterranean Diet. There are 3 main features to this app:
-
-* Record what you eat and drink in a week.
-* Receive personalized feedback based on what you ate/drank last week.
-* Find information about recipes and recommended foods.
+Mindful Meals was designed specifically for persons living with early changes in memory and thinking to support healthier food choices. The app was developed by researchers from the University of Washington School of Nursing with strong involvement of persons living with early changes in memory and thinking and their care partners. The app allows users to track their daily meals, receive feedback on their food choices, receive personalized recommendations for healthy recipes and ask questions via chat. 
 
